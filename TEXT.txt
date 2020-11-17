@@ -1,0 +1,1 @@
+HI your first task is to remove the exisiting firbease and deploy the fresh one.
